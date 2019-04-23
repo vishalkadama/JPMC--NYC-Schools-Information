@@ -31,7 +31,6 @@ I have more concentrated on writing clean code in swift.
 
 I have used different design patterns to make code clean, implement MVVM ,Maintained separate service layer on top of it i wrote servcie helper classes with protocol extension so that in future it can be use easily , made good use of computed variables.
 
-Please dont judge based on UI :P
 
 Feel free to provide your comments.
 
